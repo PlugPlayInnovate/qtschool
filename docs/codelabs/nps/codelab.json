@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-07T13:17:41Z",
+  "id": "nps",
+  "duration": 0,
+  "title": "NPS",
+  "authors": "\u003cName\u003e",
+  "summary": "NPS  -  QtSchool",
+  "source": "1k-w6zf5Fj-ZpAwhJ4FumFW7gI2YhJIfJ9X6Nos7qTvM",
+  "theme": "schools",
+  "status": [
+    "review"
+  ],
+  "category": [
+    "schools",
+    "karnataka"
+  ],
+  "tags": [],
+  "feedback": "qtpi.in",
+  "ga": "\u003cGoogle Analytics Id\u003e",
+  "url": "nps"
+}

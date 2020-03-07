@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-07T13:31:25Z",
+  "id": "jhps",
+  "duration": 0,
+  "title": "JHPS",
+  "authors": "\u003cName\u003e",
+  "summary": "JHPS -  QtSchool",
+  "source": "1Vlm9GKw8lMoMw7u9dCJeZC0yrZVsdIWht8P_jYgM6a0",
+  "theme": "schools",
+  "status": [
+    "review"
+  ],
+  "category": [
+    "schools",
+    "telangana"
+  ],
+  "tags": [],
+  "feedback": "qtpi.in",
+  "ga": "\u003cGoogle Analytics Id\u003e",
+  "url": "jhps"
+}
