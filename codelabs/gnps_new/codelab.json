@@ -3,20 +3,18 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-03-07T13:16:43Z",
+  "updated": "2020-03-13T13:18:33Z",
   "id": "gnps_new",
   "duration": 0,
   "title": "GNPS New Branch",
   "authors": "\u003cName\u003e",
-  "summary": "GNPS New Branch  -  QtSchool",
+  "summary": "GURU NANAK PUBLIC SCHOOL(NB) - QtSchool",
   "source": "10y4PMBKlLxvwQiP2QNRYCwGa_8K123o_WkgbI0POozg",
   "theme": "schools",
-  "status": [
-    "review"
-  ],
+  "status": [],
   "category": [
-    "schools",
-    "karnataka"
+    "Schools",
+    "Karnataka"
   ],
   "tags": [],
   "feedback": "qtpi.in",

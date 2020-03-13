@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-13T11:07:41Z",
+  "id": "scts",
+  "duration": 0,
+  "title": "SCTS Kaggadasapura School",
+  "authors": "\u003cName\u003e",
+  "summary": "SCTS -  QtSchool",
+  "source": "18qfXhD4r9QdazmL46r5D0VJwc5-gg0DDxAAjXFa8SqA",
+  "theme": "schools",
+  "status": [
+    "review"
+  ],
+  "category": [
+    "schools",
+    "Karnataka"
+  ],
+  "tags": [],
+  "feedback": "qtpi.in",
+  "ga": "\u003cGoogle Analytics Id\u003e",
+  "url": "scts"
+}
