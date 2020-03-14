@@ -1,5 +1,5 @@
-for gdoc_id in $(cat ids.txt)
+for id in $(cat ids.txt)
 do
-	echo $gdoc_id
-	claat export $gdoc_id
-done
+	echo $id
+	claat export $id
+done  
