@@ -3,15 +3,23 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-03-13T12:09:56Z",
+  "updated": "2020-03-14T05:26:17Z",
   "id": "",
   "duration": 0,
-  "title": "",
-  "summary": "",
-  "source": "1pdWbo1xNmG8dK5sZniDc6-FhpDlScd4pWDhS7SdmCJo",
-  "theme": "",
-  "status": null,
-  "category": null,
+  "title": "Harvest International School,Near kodathi,Bangalore,karnataka,560035",
+  "authors": "\u003cName\u003e",
+  "summary": "Harvest International School  -  QtSchool",
+  "source": "1pS-SHqI82WttEuZypcAcE2PezIbOG7YqHV0Bxl71Ar4",
+  "theme": "schools",
+  "status": [
+    "review"
+  ],
+  "category": [
+    "schools",
+    "Karnataka"
+  ],
   "tags": [],
+  "feedback": "qtpi.in",
+  "ga": "\u003cGoogle Analytics Id\u003e",
   "url": ""
 }
