@@ -333,6 +333,9 @@ var URLSearchParams = URLSearchParams || function () {
       this.debounce('search', function () {
         this.$.cards.filterByText(app.searchVal);
       }, 250);
+      if (e.keyCode == 13) {
+        window.location.href = "#filters";
+      }
     };
 
     return app;
