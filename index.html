@@ -100,18 +100,12 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 <body id="app" is="body-bind" class="loading fullbleed ">
   <paper-header-panel id="main" mode="standard" main>
     
-    <div id="mainToolbar" class="paper-header">
-      <div class="site-width layout horizontal">
+    <div id="mainToolbar" class="paper-header" style="background-color: #484c4e">
+      <div class="site-width layout horizontal" style="margin: 0 0 0 0;">
         <a href="/">
           <img src="/images/qtpi_logo.png" class="logo-devs" alt="QtPi Logo">
         </a>
-        <div id="searchbar">
-          <paper-input-container no-label-float>
-            <paper-icon-button prefix icon="search"></paper-icon-button>
-            <label>Search</label>
-            <input is="iron-input" bind-value="{{searchVal}}" on-keydown="onSearchKeyDown">
-          </paper-input-container>
-        </div>
+       
       </div>
     </div>
     
@@ -132,17 +126,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           <section class="video-section">
 
 
-            <iframe width="100%" height="315px" class="youtube-video"
+            <iframe width="560px" height="315px" class="youtube-video" frameborder="0"
               src="https://www.youtube.com/embed/a7Bc4UCZa-I?rel=0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <p><br></p>
+            <!--<p><br></p>
 
             <div id="qtpi_text">
               <span>QtPi Robotics has built an ecosystem of over 20,000 children aged between 7-17 across India, since
-                we started in 2016. It’s about time we pull students out of the rat race and teach them how to think
-                instead of what to think! QtPi Robotics is doing just that!</span>
+                we started in 2016.</span>
             </div>
-
+          -->
             <div class="myflex1" align="center">
               <section class="box-section1">
                 <div class="box-item1" style="max-height: 90%;">CONSUME</div>
@@ -179,10 +172,15 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         </div>
 
         
-        <paper-dropdown-menu label="Choose an event" class="dropdown-filter" no-label-float noink no-animations>
-          <paper-listbox id="eventList" slot="dropdown-content" class="dropdown-content">
-          </paper-listbox>
-        </paper-dropdown-menu>
+          
+          <div id="searchbar" style="width:60%;margin-left: 5px;margin-right: 5px;background-color: rgba(255, 255, 255,1);"">
+            <paper-input-container no-label-float>
+              <paper-icon-button prefix icon="search"></paper-icon-button>
+              <label>Search</label>
+              <input is="iron-input" bind-value="{{searchVal}}" on-keydown="onSearchKeyDown" style="color: #333;">
+            </paper-input-container>
+          </div>
+          
         <paper-dropdown-menu label="Filter by category" class="dropdown-filter" no-label-float noink no-animations>
           <paper-listbox id="categorylist" slot="dropdown-content" class="dropdown-content"
             on-iron-activate="onCategoryActivate" attr-for-selected="filter">
