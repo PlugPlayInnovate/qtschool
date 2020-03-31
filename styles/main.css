@@ -778,7 +778,7 @@ ul, li {
 @media (max-width: 1800px) and (min-width: 1300px) {
   .box-item {
     margin: 0 0 16px;
-    min-width: 330px;
+    min-width: 240px;
   }
 }
 
