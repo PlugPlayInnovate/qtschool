@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-109518269-1",
+  "updated": "2020-04-09T17:03:51Z",
+  "id": "ryan_noida",
+  "duration": 0,
+  "title": "Ryan International School, Noida,Uttar Pradesh 201301",
+  "authors": "\u003cName\u003e",
+  "summary": "Ryan International school , Noida -  QtSchool",
+  "source": "",
+  "theme": "schools",
+  "status": [
+    "review"
+  ],
+  "category": [
+    "Schools",
+    "Uttar Pradesh"
+  ],
+  "tags": [],
+  "feedback": "qtpi.in",
+  "ga": "\u003cGoogle Analytics Id\u003e",
+  "url": "ryan_noida"
+}
