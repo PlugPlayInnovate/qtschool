@@ -30,11 +30,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
   <title>School Robotics</title>
 
-  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="/styles/main.css">
 
   
 
-  <link rel="import" href="./elements/elements.html">
+  <link rel="import" href="/elements/elements.html">
 
   <style is="custom-style">
     :root {
@@ -70,8 +70,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/android-chrome-192x192.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png"> -->
   <link rel="icon" type="image/ico" sizes="16x16" href="/images/favicons/favicon.ico">
-  <link rel="manifest" href="./site.webmanifest">
-  <link rel="mask-icon" href="./images/favicons/safari-pinned-tab.svg" color="#455a64">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#455a64">
   <meta name="msapplication-TileColor" content="#455a64">
   <!--  <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png"> -->
   <meta name="theme-color" content="#455a64">
@@ -103,7 +103,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <div id="mainToolbar" class="paper-header" style="background-color: #484c4e">
       <div class="site-width layout horizontal" style="margin: 0 0 0 0;">
         <a href="/">
-          <img src="./images/qtpi_logo.png" class="logo-devs" alt="QtPi Logo">
+          <img src="/images/qtpi_logo.png" class="logo-devs" alt="QtPi Logo">
         </a>
        
       </div>
@@ -194,7 +194,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/gnps_new/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/gnps_new/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="Schools,Karnataka"
           data-title="Guru Nanak Public School (GNPS) New Branch, Bidar, Karnataka, 585403" data-duration="0" data-updated="2020-04-28T03:54:57Z"
           data-tags="" data-pin="">
@@ -211,7 +211,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/north_hills/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/north_hills/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="Schools,Karnataka"
           data-title="North Hills International School (NHIS), Dasarahalli, Bangalore, Karnataka, 560024" data-duration="0" data-updated="2020-04-28T03:56:29Z"
           data-tags="" data-pin="">
@@ -228,7 +228,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/ryan_noida/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/ryan_noida/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="Schools,Uttar Pradesh"
           data-title="Ryan International School, Noida,Uttar Pradesh 201301" data-duration="0" data-updated="2020-04-28T03:33:42Z"
           data-tags="" data-pin="">
@@ -245,7 +245,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/ryan_vasant_kunj/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/ryan_vasant_kunj/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="Schools,New Delhi"
           data-title="Ryan International School, Vasant Kunj, New Delhi 110070" data-duration="0" data-updated="2020-04-28T03:31:30Z"
           data-tags="" data-pin="">
@@ -262,7 +262,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/acts/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/acts/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,Bangalore"
           data-title="ACTS Secondary School, Hosur Road, Bangalore Karnataka 560100" data-duration="0" data-updated="2020-04-28T03:42:13Z"
           data-tags="" data-pin="">
@@ -279,7 +279,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/bashyam_blooms/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/bashyam_blooms/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,Andhra"
           data-title="Bhashyam Blooms School ,Guntur, Andhra Pradesh 522007" data-duration="0" data-updated="2020-04-28T03:28:28Z"
           data-tags="" data-pin="">
@@ -296,7 +296,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/bcgs/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/bcgs/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="Bishop Cottons Girls School(BCGS), M.G.road, Bangalore, Karnataka 560027" data-duration="0" data-updated="2020-04-28T03:48:08Z"
           data-tags="" data-pin="">
@@ -313,7 +313,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/brs_global/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/brs_global/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="BRS School, Kasavanahalli, Karnataka 560035" data-duration="0" data-updated="2020-04-28T03:51:12Z"
           data-tags="" data-pin="">
@@ -330,7 +330,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/brs/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/brs/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="BRS Global, Attibele, Bangalore, Karnataka, 562107" data-duration="0" data-updated="2020-04-28T03:50:08Z"
           data-tags="" data-pin="">
@@ -347,7 +347,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/bvb_kv/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/bvb_kv/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="Bharathiya Vidya Bhavan Kodagu Vidyalaya(BVB), Coorg, Madekeri, Karnataka 571201" data-duration="0" data-updated="2020-04-28T03:51:55Z"
           data-tags="" data-pin="">
@@ -364,7 +364,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/cambridge/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/cambridge/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="CAMBRIDGE SCHOOL,13th Cross Rd, Basavanapura,Krishnarajapura, Bengaluru, Karnataka 560036" data-duration="0" data-updated="2020-04-28T03:53:05Z"
           data-tags="" data-pin="">
@@ -381,7 +381,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_bannerghatta/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_bannerghatta/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Bannerghatta, Bangalore, Karnataka 560083" data-duration="0" data-updated="2020-04-17T17:23:27Z"
           data-tags="" data-pin="">
@@ -398,7 +398,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_ecity/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_ecity/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Electronic City, Bangalore, Karnataka, 560100" data-duration="0" data-updated="2020-04-17T17:23:51Z"
           data-tags="" data-pin="">
@@ -415,7 +415,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_harivillu/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_harivillu/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Harivillu, Bangalore, Karnataka, India-500081" data-duration="0" data-updated="2020-04-17T17:25:13Z"
           data-tags="schools" data-pin="">
@@ -432,7 +432,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_hebbal/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_hebbal/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS) , Hebbal, Bangalore, karnataka, 560045" data-duration="0" data-updated="2020-04-17T17:27:39Z"
           data-tags="" data-pin="">
@@ -449,7 +449,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_hosur_1/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_hosur_1/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Hosur 1, Tamil Nadu, 635109" data-duration="0" data-updated="2020-04-17T18:11:19Z"
           data-tags="" data-pin="">
@@ -466,7 +466,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_hosur_2/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_hosur_2/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Hosur 2, Tamil Nadu, 635109" data-duration="0" data-updated="2020-04-17T18:11:52Z"
           data-tags="" data-pin="">
@@ -483,7 +483,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_jpnagar/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_jpnagar/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), JP Nagar, Bangalore, Karnataka, India-560078" data-duration="0" data-updated="2020-04-17T17:28:02Z"
           data-tags="" data-pin="">
@@ -500,7 +500,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_kagadaspura/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_kagadaspura/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Kaggadasapura, Bangalore, Karnataka, 560075" data-duration="0" data-updated="2020-04-17T17:28:46Z"
           data-tags="" data-pin="">
@@ -517,7 +517,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_keelakattalai/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_keelakattalai/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Thiru Nagar, Sholinganallur, Chennai, Tamil Nadu, 600129" data-duration="0" data-updated="2020-03-17T10:00:17Z"
           data-tags="" data-pin="">
@@ -534,7 +534,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_krpuram/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_krpuram/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), KR Puram, Bangalore, Karnataka, 560036" data-duration="0" data-updated="2020-04-17T17:29:23Z"
           data-tags="" data-pin="">
@@ -551,7 +551,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_Manapakkam/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_Manapakkam/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Manapakkam, Thiruvalluvar Nagar, Tamil Nadu 600125" data-duration="0" data-updated="2020-04-17T18:14:11Z"
           data-tags="" data-pin="">
@@ -568,7 +568,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_marathahalli/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_marathahalli/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Marathahalli, karnataka, 560037" data-duration="0" data-updated="2020-04-17T17:29:54Z"
           data-tags="" data-pin="">
@@ -585,7 +585,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_Mylapore/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_Mylapore/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Mylapore, Tamilnadu 600028" data-duration="0" data-updated="2020-04-17T18:14:48Z"
           data-tags="" data-pin="">
@@ -602,7 +602,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_perumbakkam/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_perumbakkam/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Perumpakkam,Tamilnadu  600100" data-duration="0" data-updated="2020-04-17T18:15:12Z"
           data-tags="" data-pin="">
@@ -619,7 +619,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_rmnagar_1/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_rmnagar_1/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri chaitanya Techno School (SCTS), Ramamurthy Nagar-1, Bangalore, Karnataka, 560016" data-duration="0" data-updated="2020-04-17T17:41:29Z"
           data-tags="" data-pin="">
@@ -636,7 +636,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_salem/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_salem/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Narasothipatti, Salem, Tamil Nadu 636004z" data-duration="0" data-updated="2020-05-07T17:57:40Z"
           data-tags="" data-pin="">
@@ -653,7 +653,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_seshadripuram/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_seshadripuram/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Seshadripuram, Bangalore, Karnataka, 560020" data-duration="0" data-updated="2020-04-17T18:03:13Z"
           data-tags="" data-pin="">
@@ -670,7 +670,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_thoraipakkam/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_thoraipakkam/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Thoraipakkam,Tamil Nadu 600096" data-duration="0" data-updated="2020-04-17T18:16:18Z"
           data-tags="" data-pin="">
@@ -687,7 +687,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/chaitanya_uttarahalli/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/chaitanya_uttarahalli/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka,chaitanya"
           data-title="Sri Chaitanya Techno School (SCTS), Uttarahalli, Bangalore, Karnataka, 560061" data-duration="0" data-updated="2020-04-17T17:47:53Z"
           data-tags="" data-pin="">
@@ -704,7 +704,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/excel_central/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/excel_central/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu"
           data-title="Excel Central School, Thiruvattaur, Kanyakumari, Tamilnadu, 629177" data-duration="0" data-updated="2020-04-28T03:47:10Z"
           data-tags="" data-pin="">
@@ -721,7 +721,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/excel_global/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/excel_global/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu"
           data-title="Excel Group Of School (GLOBAL), Thiruvattar, Tamil Nadu  629177" data-duration="0" data-updated="2020-04-28T04:03:38Z"
           data-tags="" data-pin="">
@@ -755,7 +755,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/gnps_main/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/gnps_main/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="Guru Nanak Public School (GNPS) Main Branch, Bidar, Karnataka 585403" data-duration="0" data-updated="2020-04-28T03:24:39Z"
           data-tags="" data-pin="">
@@ -772,7 +772,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/harvest/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/harvest/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,Karnataka"
           data-title="Harvest International School, Near kodathi, Bangalore, karnataka, 560035" data-duration="0" data-updated="2020-04-28T03:55:44Z"
           data-tags="" data-pin="">
@@ -789,7 +789,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/jhps/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/jhps/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,telangana"
           data-title="Jubilee Hills Public School (JHPS), Jubilee hills, Hyderabad, Telangana 500096" data-duration="0" data-updated="2020-04-28T03:22:52Z"
           data-tags="" data-pin="">
@@ -806,7 +806,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/nps/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/nps/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="National Public School (NPS), Kengeri, Bangalore, Karnataka, 560060" data-duration="0" data-updated="2020-04-28T03:57:59Z"
           data-tags="" data-pin="">
@@ -823,7 +823,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/packiyanath/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/packiyanath/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu"
           data-title="The Packiyanathan Public School, Kattathurai, Kanyakumari, Tamilnadu 629158" data-duration="0" data-updated="2020-04-28T03:43:54Z"
           data-tags="" data-pin="">
@@ -840,7 +840,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/ryan_intl/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/ryan_intl/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,karnataka"
           data-title="Ryan International School, Kundalahalli, Bangalore, Karnataka, 560037" data-duration="0" data-updated="2020-04-28T03:59:08Z"
           data-tags="" data-pin="">
@@ -857,7 +857,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/sns/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/sns/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu"
           data-title="Sri National School (SNS), Gobichettypalyam, Tamilnadu, 638452" data-duration="0" data-updated="2020-04-17T18:09:02Z"
           data-tags="" data-pin="">
@@ -874,7 +874,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/surya_global/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/surya_global/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,telangana"
           data-title="Surya The Global School (STGS), Bachupally, Hyderabad, Telangana 500090" data-duration="0" data-updated="2020-04-28T03:30:18Z"
           data-tags="" data-pin="">
@@ -891,7 +891,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         
         
         
-        <a href="./schools/tris/index.html?index=..%2F..index" on-tap="navigate"
+        <a href="/schools/tris/index.html?index=..%2F..index" on-tap="navigate"
           class="codelab-card category-schools" data-category="schools,tamilnadu"
           data-title="The Rajas International School (TRIS), Nagercoil, Tamilnadu, 629001." data-duration="0" data-updated="2020-04-28T03:37:43Z"
           data-tags="" data-pin="">
@@ -955,7 +955,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
   </paper-header-panel>
 
-  <script src="./scripts/main.js"></script>
+  <script src="/scripts/main.js"></script>
 </body>
 
 </html>
